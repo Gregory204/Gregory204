@@ -11,8 +11,8 @@ Also if your reading this I hope this readme find you well God Bless you!
 */
 
 Coding... 24/7
-C++    (Learning)  //currently most learned
-Python (Learning)  //Want to learn more about
+C++    (Learning)  //second most learned
+Python (Intermediate)  //Most Learned
 Java   (Havent Started)
 HTML   (Havent Started)  //Future project for portfolio website
 CSS    (Havent Started)  //Future project for portfolio website
