@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gregory or Greg for short
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning AI/ML
+- 🌱 I’m currently learning AI/ML and Data Analysis
 - 📫 How to reach me gregorygrullon03@gmail.com
 
 <!---
