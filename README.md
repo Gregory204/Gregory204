@@ -1,7 +1,16 @@
-- 👋 Hi, I’m Gregory or Greg for short
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning AI/ML and Data Analysis
-- 📫 How to reach me gregorygrullon03@gmail.com
+* Hello, My name is Gregory or just Greg
+
+** About Me:
+
+- 20 years old
+- Junior Hunter College (Currently)
+- I am a aspiring data scientist who is interested in the field of using data in the most efficient and strategic way.
+- Recently Learning: ML, AI, EDA(MORE)
+
+** 📫 How to reach me:
+
+- Email: gregorygrullon03@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gregory-grullon
 
 <!---
 Gregory204/Gregory204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
