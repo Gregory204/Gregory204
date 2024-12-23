@@ -6,7 +6,7 @@
 - **Current Education**: Junior at Hunter College 🎓
 - **Aspiring Data Scientist**: Passionate about using data to solve complex problems in the most efficient and strategic ways 📊🔍.
 - **Currently Learning**: Machine Learning (ML) 🤖, Artificial Intelligence (AI) 🧠, Exploratory Data Analysis (EDA) 📉, and more! 🚀
-- **Currently Working On**: A real-time language translator project 🌍💬 
+- **Currently Working On**: Retail web application for ‘I Love New’ 🛍️✨, featuring a seamless shopping experience 🌐 and AI chatbot integration 🤖 for inventory and user assistance.
 
 ## 📫 How to Reach Me
 
