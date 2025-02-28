@@ -6,7 +6,7 @@
 - **Current Education**: Junior at Hunter College 🎓
 - **Aspiring Data Scientist**: Passionate about using data to solve complex problems in the most efficient and strategic ways 📊🔍.
 - **Currently Learning**: Machine Learning (ML) 🤖, Artificial Intelligence (AI) 🧠, Exploratory Data Analysis (EDA) 📉, and more! 🚀
-- **Currently Working On**: 🌐🚀 Building a website using AWS for smart resume matching & career recommendations with AI ☁️💡
+- **Currently Working On**: Building a Website for my dad :) 👜
 
 ## 📫 How to Reach Me
 
