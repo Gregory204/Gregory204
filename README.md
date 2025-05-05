@@ -2,11 +2,11 @@
 
 ## About Me 🤔
 
-- **Age**: 20 years old 🎂
+- **Age**: 21 years old 🎂
 - **Current Education**: Junior at Hunter College 🎓
 - **Aspiring Data Scientist**: Passionate about using data to solve complex problems in the most efficient and strategic ways 📊🔍.
 - **Currently Learning**: Machine Learning (ML) 🤖, Artificial Intelligence (AI) 🧠, Exploratory Data Analysis (EDA) 📉, and more! 🚀
-- **Currently Working On**: Building a Website for my dad :) 👜
+- **Currently Working On**: YouTube Data Science/ Machine Learning Vids!
 
 ## 📫 How to Reach Me
 
